@@ -1,5 +1,5 @@
  Hi , I'm kunal yadav,
- A passionate Open Source Contributer || Full stack Engineer || Student at NSUT || SIH 2025 Winner
+ A passionate Open Source Contributer || SIH 2025  Winner || Student at NSUT 
 
 Email Me yadavkunal4014@gmail.com For Collaboration/Project or Anything Else. 
 
