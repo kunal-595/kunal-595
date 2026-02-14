@@ -1,10 +1,26 @@
-Hi, This is Kunal Yadav  
-Open Source Contributor || SIH 2025 Winner || Student at NSUT
+# Hi, I'm Kunal Yadav 👋 
+**B.Tech Instrumentation & Control Engineering @ NSUT**
 
-I build and contribute to open-source systems with a focus on backend engineering, minimal architectures, and privacy-aware design.  
-Currently working on research-oriented platforms and exploring Bitcoin-related infrastructure.
+I build high assurance systems at the intersection of Bitcoin privacy and local-first AI. Currently a core contributor to the Jam ecosystem.
 
-📧 Email: yadavkunal4014@gmail.com (collaboration / projects)
+### 🏆 Key Achievements
+- **SIH 2025 Winner:** Developed **GroundSense Bot** for the Ministry of Jal Shakti. Engineered an offline RAG system processing 27k+ groundwater datasets with deterministic SQL generation.
+- **Jam Organization Member:** Integrated core privacy infrastructure and advanced wallet logic into the JoinMarket WebUI.
+
+---
+
+### ₿ Open Source: Jam (JoinMarket)
+*Focus: Security-critical wallet logic and protocol implementations.*
+
+- **Fidelity Bonds Module:** Designed the end-to-end creation and renewal workflow, orchestrating timelocked UTXO management and BIP-32 derivation.
+- **Power User Infrastructure:** Built the advanced wallet interface for granular xpub/zpub management and privacy-sensitive data exposure.
+- **Architecture:** Managed complex state synchronization between React and the JoinMarket API within Dockerized regtest environments.
+
+### 🤖 AI Engineering: GroundSense (SIH 2025)
+*Focus: Reliable, zero-dependency AI for government-scale data.*
+
+- **Offline RAG Pipeline:** Orchestrated `Ollama` + `Qwen 2.5` for natural language querying of structured government data.
+- **Vector Search:** Implemented semantic retrieval using `PostgreSQL` + `pgvector` with a custom Redis caching layer for sub-second response times.
 
 ---
 
@@ -67,10 +83,10 @@ Currently working on research-oriented platforms and exploring Bitcoin-related i
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+### 🛡️ Testing & Reliability Arsenal
+*Because in Bitcoin, there are no "undo" buttons.*
 
-## 🔍 Interests
-- Open-source infrastructure where long term maintainability and review quality matter more than rapid feature growth
-- Privacy first and research oriented systems that handle user generated data with explicit consent and clear data ownership
-- Backend architectures that favor minimal dependencies, simple deployment, and predictable behavior over complex stacks
-- Bitcoin and decentralized technologies, with a focus on conservative design, security assumptions, and real world usability
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+- **Execution:** Specialized in **Dockerized Regtest** environments for Bitcoin protocol simulation.
+- **Unit/Integration:** **Jest** and **React Testing Library** for frontend state logic and **Pytest** for backend validation.
